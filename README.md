@@ -3,7 +3,7 @@
 ## 노트북 파일
 이 프로젝트는 다음과 같은 노트북 파일을 제공합니다:
 각 노트북 파일을 열어 자세한 사용법을 확인하세요
-- [Yield Curve 구조](https://githubtocolab.com/xikest/Research-on-the-finanace-makret/blob/main/yield_curve_structure.ipynb)
+- [Yield Curve 구조](https://github.com/xikest/Research-on-the-finanace-makret/blob/main/yield_curve_structure.ipynb)
 
 
 ## 주의사항
