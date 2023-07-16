@@ -9,7 +9,7 @@
 
 ### Recession (경기 침체)
 - [미국 경기 침체 기간](https://colab.research.google.com/github/xikest/Research-on-the-finanace-makret/blob/main/recession_periods_for_USA_with_wiki.ipynb)
-
+- [미국 경기 침체 예측 with 베이지안](https://githubtocolab.com/xikest/Research-on-the-finanace-makret/blob/main/period_to_recession_with_bayesian.ipynb)
 
 ### Commodity
 - [Oil Sector 작성 중](https://githubtocolab.com/xikest/Research-on-the-finanace-makret/blob/main/Oil%20sector.ipynb)
