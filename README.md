@@ -4,12 +4,15 @@
 이 프로젝트는 다음과 같은 노트북 파일을 제공합니다:
 각 노트북 파일을 열어 자세한 사용법을 확인하세요
 
+### economics
+- [글로벌 경기 분석_작성중](https://githubtocolab.com/xikest/Research-on-the-finanace-makret/blob/main/global_economics.ipynb)
+
 ### Yield
 - [Yield Curve 구조](https://githubtocolab.com/xikest/Research-on-the-finanace-makret/blob/main/yield_curve_structure.ipynb)
 
 ### Recession (경기 침체)
-- [미국 경기 침체 기간](https://colab.research.google.com/github/xikest/Research-on-the-finanace-makret/blob/main/recession_periods_for_USA_with_wiki.ipynb)
-- [미국 경기 침체 예측 with 베이지안](https://githubtocolab.com/xikest/Research-on-the-finanace-makret/blob/main/period_to_recession_with_bayesian.ipynb)
+- [미국 경기 침체 기간](https://colab.research.google.com/github/xikest/Research-on-the-finanace-makret/blob/main/recession/recession_periods_for_USA_with_wiki.ipynb)
+- [미국 경기 침체 예측 with 베이지안](https://colab.research.google.com/github/xikest/Research-on-the-finanace-makret/blob/main/recession/period_to_recession_with_bayesian.ipynb)
 
 ### Commodity
 - [Oil Sector 작성 중](https://githubtocolab.com/xikest/Research-on-the-finanace-makret/blob/main/Oil%20sector.ipynb)
