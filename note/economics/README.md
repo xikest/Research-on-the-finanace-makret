@@ -5,4 +5,4 @@
 각 노트북 파일을 열어 자세한 사용법을 확인하세요
 
 ### economics
-- [글로벌 경기 분석_작성중](https://colab.research.google.com/github/xikest/Research-on-the-finanace-market/blob/main/note/economics/global_economics.ipynb)
+- [글로벌 경기 분석_작성중](https://colab.research.google.com/github/xikest/research_market_finance/blob/main/note/economics/global_economics.ipynb)

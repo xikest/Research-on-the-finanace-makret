@@ -4,6 +4,5 @@
 이 프로젝트는 다음과 같은 노트북 파일을 제공합니다:
 각 노트북 파일을 열어 자세한 사용법을 확인하세요
 
-### Market
-- [s&p500](https://githubtocolab.com/xikest/research_market_finance/blob/main/note/stock/snp500_component_with_PCA.ipynb)
-- [s&p500과 VIX](https://githubtocolab.com/xikest/research_market_finance/blob/main/note/stock/SPX%EC%99%80%20VIX%20%EA%B4%80%EA%B3%84.ipynb)
+### Risk management (경기 침체)
+- [Risk mg basic](https://colab.research.google.com/github/xikest/research_market_finance/blob/main/note/riskmgt/1_risk_management_basic.ipynb)

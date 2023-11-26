@@ -5,4 +5,4 @@
 각 노트북 파일을 열어 자세한 사용법을 확인하세요
 
 ### Yield
-- [Yield Curve 구조](https://githubtocolab.com/xikest/Research-on-the-finanace-market/blob/main/note/money/yield_curve_structure.ipynb)
+- [Yield Curve 구조](https://githubtocolab.com/xikest/research_market_finance/blob/main/note/money/yield_curve_structure.ipynb)

@@ -5,4 +5,4 @@
 각 노트북 파일을 열어 자세한 사용법을 확인하세요
 
 ### Commodity
-- [Oil Sector 작성 중](https://githubtocolab.com/xikest/Research-on-the-finanace-market/blob/main/note/commodity/Oil_sector.ipynb)
+- [Oil Sector 작성 중](https://githubtocolab.com/xikest/research_market_finance/blob/main/note/commodity/Oil_sector.ipynb)
