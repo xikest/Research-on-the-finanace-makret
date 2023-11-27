@@ -4,5 +4,6 @@
 이 프로젝트는 다음과 같은 노트북 파일을 제공합니다:
 각 노트북 파일을 열어 자세한 사용법을 확인하세요
 
-### Risk management (경기 침체)
+### Risk management 
 - [Risk mg basic](https://colab.research.google.com/github/xikest/research_market_finance/blob/main/note/riskmgt/1_risk_management_basic.ipynb)
+- [Time Series](https://colab.research.google.com/github/xikest/research_market_finance/blob/main/note/riskmgt/1_time_series.ipynb)

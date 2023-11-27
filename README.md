@@ -4,15 +4,17 @@
 이 프로젝트는 다음과 같은 노트북 파일을 제공합니다:
 각 노트북 파일을 열어 자세한 사용법을 확인하세요
 
-### [economics](https://github.com/xikest/research-on-the-market/tree/main/note/economics)
+### [economics](https://github.com/xikest/research_market_finance/tree/main/note/economics)
 
-### [Money](https://github.com/xikest/research-on-the-market/tree/main/note/money)
+### [Money](https://github.com/xikest/research_market_finance/tree/main/note/money)
 
-### [Recession](https://github.com/xikest/research-on-the-market/tree/main/note/recession)
+### [Recession](https://github.com/xikest/research_market_finance/tree/main/note/recession)
 
-### [Commodity](https://github.com/xikest/research-on-the-market/tree/main/note/commodity)
+### [Commodity](https://github.com/xikest/research_market_finance/tree/main/note/commodity)
 
-### [Market](https://github.com/xikest/research-on-the-market/tree/main/note/stock)
+### [Market](https://github.com/xikest/research_market_finance/tree/main/note/stock)
+
+### [Risk mgt](https://github.com/xikest/research_market_finance/tree/main/note/riskmgt)
 
 ## 주의사항
 이 도구는 Quandl의 Private API Key가 필요 합니다.
