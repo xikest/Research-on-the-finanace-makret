@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d67112d0-c0ab-4ece-9b1c-7a9bd8555650" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/note/recession/period_to_recession_with_bayesian.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/note/recession/period_to_recession_with_bayesian.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/riskmgt/2.time_series.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/note/riskmgt/2.time_series.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/stock/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/note/stock/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Yi0WJPeTdgBIsXU2hHSgU0lQU6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/taest/Documents/github/bot-on-finance_q",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\taest\Documents\github\research_market_finance\note\riskmgt" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d67112d0-c0ab-4ece-9b1c-7a9bd8555650" name="Changes" comment="" />
+      <created>1700993122521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700993122521</updated>
+    </task>
+    <servers />
+  </component>
+</project>

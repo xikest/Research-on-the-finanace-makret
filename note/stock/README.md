@@ -8,3 +8,4 @@
 - [s&p500_component_with_PCA](https://githubtocolab.com/xikest/research_market_finance/blob/main/note/stock/snp500_component_with_PCA.ipynb)
 - [s&p500과 VIX](https://githubtocolab.com/xikest/research_market_finance/blob/main/note/stock/SPX%EC%99%80%20VIX%20%EA%B4%80%EA%B3%84.ipynb)
 - [market pattern](https://githubtocolab.com/xikest/research_market_finance/blob/main/note/stock/market_pattern.ipynb)
+- [stock_basic_analysis](https://githubtocolab.com/xikest/research_market_finance/blob/main/note/stock/basic_analysis_plot.ipynb)
