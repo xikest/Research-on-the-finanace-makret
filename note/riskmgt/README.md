@@ -6,4 +6,5 @@
 
 ### Risk management 
 - [Risk mg basic](https://colab.research.google.com/github/xikest/research_market_finance/blob/main/note/riskmgt/1_risk_management_basic.ipynb)
-- [Time Series](https://colab.research.google.com/github/xikest/research_market_finance/blob/main/note/riskmgt/1_time_series.ipynb)
+- [Time Series](https://colab.research.google.com/github/xikest/research_market_finance/blob/main/note/riskmgt/2_time_series.ipynb)
+- [Time Series](https://colab.research.google.com/github/xikest/research_market_finance/blob/main/note/riskmgt/3_volatility_model.ipynb)

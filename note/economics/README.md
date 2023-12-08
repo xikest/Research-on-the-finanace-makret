@@ -6,3 +6,4 @@
 
 ### economics
 - [글로벌 경기 분석_작성중](https://colab.research.google.com/github/xikest/research_market_finance/blob/main/note/economics/global_economics.ipynb)
+- [CAPE](https://colab.research.google.com/github/xikest/research_market_finance/blob/main/note/economics/CAPE_multpl.ipynb)
