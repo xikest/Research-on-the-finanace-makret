@@ -10,4 +10,4 @@
 - [zipline_backtest_analysis](https://colab.research.google.com/github/xikest/research_market_finance/blob/main/note/backtest/zipline_backtest_analysis.ipynb)
 
 
-- [ETF list](https://colab.research.google.com/github/xikest/research_market_finance/blob/main/note/backtest/zipline_bundle_etf.ipynb)
+- [zipline_bundle_etf](https://colab.research.google.com/github/xikest/research_market_finance/blob/main/note/backtest/zipline_bundle_etf.ipynb)
