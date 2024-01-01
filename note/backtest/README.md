@@ -12,4 +12,5 @@
 - [zipline_bundle_etf](https://colab.research.google.com/github/xikest/research_market_finance/blob/main/note/backtest/data/zipline_bundle_etf.ipynb)
 
 ### MLFT
-- [edgar filing](https://colab.research.google.com/github/xikest/research_market_finance/blob/main/note/backtest/data/edgar_filing.ipynb)
+- [dataset_edgar filing](https://colab.research.google.com/github/xikest/research_market_finance/blob/main/note/backtest/data/dataset_edgar_filing.ipynb)
+- [dataset_stooq](https://colab.research.google.com/github/xikest/research_market_finance/blob/main/note/backtest/data/dataset_stooq.ipynb)
